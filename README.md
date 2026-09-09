@@ -17,9 +17,7 @@ A lightweight, background Windows Service written in C# (.NET) that automaticall
 
 **1. Get the code**  
 Clone this repository to your local machine by running this command in your terminal:
-´´´
 "git clone https://github.com/YOUR_USERNAME/SmartFileOrganizer.git"
-´´´
 
 **2. Open the Project**  
 Locate the cloned folder and double-click the "SmartFileOrganizer.sln" file to open it in Visual Studio 2022.
