@@ -30,7 +30,7 @@ Download any file from your web browser and watch the console update as it detec
 
 ---
 
-## ⚙️ How to Customize / Use It for Yourself
+## How to Customize / Use It for Yourself
 
 You don't just have to use my default categories. You can easily modify the code to fit your exact workflow.
 
@@ -56,5 +56,5 @@ By default, this sorts files inside your Downloads folder. If you want it to mov
 
 ---
 
-## 🧠 Architecture Notes
+## Architecture Notes
 This project was built using the .NET "BackgroundService" class. It demonstrates handling OS-level file system events, asynchronous file stream locks, and defensive programming against I/O exceptions.
