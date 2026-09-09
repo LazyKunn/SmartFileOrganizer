@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartFileOrganizer", "SmartFileOrganizer\SmartFileOrganizer.csproj", "{5C317E9A-D709-463E-B30D-E8B3107D980A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C317E9A-D709-463E-B30D-E8B3107D980A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C317E9A-D709-463E-B30D-E8B3107D980A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C317E9A-D709-463E-B30D-E8B3107D980A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C317E9A-D709-463E-B30D-E8B3107D980A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {856E6AF7-2A57-4DD2-8091-A8EF00AB4B68}
+	EndGlobalSection
+EndGlobal
