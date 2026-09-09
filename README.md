@@ -16,7 +16,7 @@ A lightweight, background Windows Service written in C# (.NET) that automaticall
 ## How to Run Locally
 
 **1. Get the code**  
-Clone this repository to your local machine by running this command in your terminal:
+Clone this repository to your local machine by running this command in your terminal:       
 "git clone https://github.com/YOUR_USERNAME/SmartFileOrganizer.git"
 
 **2. Open the Project**  
